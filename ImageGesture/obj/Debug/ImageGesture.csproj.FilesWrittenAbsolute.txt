@@ -1,0 +1,7 @@
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/ImageGesture/ImageGesture/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/ImageGesture/ImageGesture/bin/Debug/Xamarin.Forms.Core.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/ImageGesture/ImageGesture/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/ImageGesture/ImageGesture/bin/Debug/ImageGesture.dll.mdb
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/ImageGesture/ImageGesture/bin/Debug/ImageGesture.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/ImageGesture/ImageGesture/obj/Debug/ImageGesture.dll
+/Users/chris/Documents/Custom/Xamarin.Forms.Controls/ImageGesture/ImageGesture/obj/Debug/ImageGesture.dll.mdb
